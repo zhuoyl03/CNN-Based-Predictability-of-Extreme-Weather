@@ -1,3 +1,4 @@
 # CNN-Based Extreme Weather Prediction
 
-This is a small exploratory project testing whether a simple CNN can predict extreme weather events (e.g. heatwaves) a few days ahead using Z500 fields in an idealized setting. The focus is on understanding predictability and evaluation challenges in rare-event, time-series problems rather than building an operational forecast. Preliminary results show moderate recall after threshold tuning, but performance is limited by strong class imbalance, small validation size, and the simplicity of the model.
+This project is a small exploratory experiment using a simple CNN to predict extreme weather events from Z500 fields. It focuses on learning how rare-event time-series prediction behaves, not on achieving high forecast skill. Results are preliminary and mainly serve as a learning and prototyping exercise.
+
